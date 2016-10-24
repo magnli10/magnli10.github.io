@@ -41,6 +41,10 @@ section{
     margin-top: 100px;
 }
 
+section .wide {
+    flex-grow: 1;
+}
+
 .header .headerbox{
     position: relative;
     height: 110px;
