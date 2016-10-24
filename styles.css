@@ -43,10 +43,10 @@ section{
     background-color: #1FBCD2;
 }
 
-img .small{
-    width: 200px;
+img.small{
+    height: 200px;
 }
 
-.right {
-    float: right;
+.center {
+    margin: 0 auto;
 }
