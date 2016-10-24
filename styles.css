@@ -5,7 +5,30 @@ font-weight: bold;
 src: url("fonts/noyh_bold.otf") format("opentype");
 }
 
+@font-face {
+font-family: Planer;
+font-weight: regular;
+src: url("fonts/planer_regular.otf") format("opentype");
+}
+
 h1 {
     font-family: Noyh;
     font-weight: bold;
 }
+
+h2 {
+    font-family: Noyh;
+    font-weight: bold;
+}
+
+h3 {
+    font-family: Planer;
+    font-weight: bold;
+}
+
+section{
+    max-width: 740px;
+    margin: 0 auto;
+}
+
+
