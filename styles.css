@@ -31,4 +31,17 @@ section{
     margin: 0 auto;
 }
 
+.header .headerbox{
+    position: absolute;
+    height: 110px;
+    width: 100%;
+    background-color: #1FBCD2;
+}
 
+img .small{
+    width: 200px;
+}
+
+.right {
+    float: right;
+}
