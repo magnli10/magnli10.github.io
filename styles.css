@@ -32,6 +32,10 @@ h3 {
 }
 
 section{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: flex-start;
+
     max-width: 740px;
     margin: 0 auto;
     margin-top: 100px;
@@ -46,9 +50,4 @@ section{
 
 img.small{
     height: 200px;
-    margin: 0 auto;
-}
-
-.center {
-    margin: 0 auto;
 }
