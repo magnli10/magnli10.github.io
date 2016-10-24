@@ -12,4 +12,5 @@ document.addEventListener("click", function () {
     }
 
     currentStop.scrollIntoView({ block: true, behavior: "smooth"});
+
 });
