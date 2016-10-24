@@ -11,6 +11,11 @@ font-weight: regular;
 src: url("fonts/planer_regular.otf") format("opentype");
 }
 
+p {
+    font-family: Planer;
+    font-weight: regular;
+}
+
 h1 {
     font-family: Noyh;
     font-weight: bold;
